@@ -1,6 +1,0 @@
-Task 1 Test Cases:
-Verify that the Amazon homepage loads successfully.
-Verify that typing “car accessories” into the search box and submitting returns a list of products.
-Verify that selecting the first item from the search results navigates to the product detail page.
-Verify that adding an item to the cart increases the cart count by one.
-Verify that the cart contains the added item with correct details.
