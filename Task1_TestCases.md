@@ -1,3 +1,4 @@
+#Task1 Test Cases
 Verify that the Amazon homepage loads successfully.
 Verify that typing “car accessories” into the search box and submitting returns a list of products.
 Verify that selecting the first item from the search results navigates to the product detail page.
